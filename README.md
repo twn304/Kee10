@@ -1,4 +1,4 @@
-##PRAKTIKUM 6
+## PRAKTIKUM 6
 ```py
 mahasiswa = {}
 
@@ -161,4 +161,5 @@ print("Daftar Kontak Sebelumnya :\n", r)
 del r['Dina'];
 print("Daftar Kontak Setelah Dihapus :\n", r)
 ```
-![Screenshot_20221122_013100](https://user-images.githubusercontent.com/115573041/204199614-6a6dd671-666d-4ae9-89ec-1f9a2f6b3f3c.png)
+![Screenshot_20221128_121436](https://user-images.githubusercontent.com/115573041/204199686-1d3c8e5d-1f0f-442f-8e63-9031f6384ac5.png)
+
